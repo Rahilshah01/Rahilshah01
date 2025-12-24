@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Rahil Shah👋<br>🎓 MS in Data Science Student @ Stevens Institute of Technology <br>I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a passion for turning raw data into actionable insights. Currently, I am seeking full-time opportunities or internships in **Data Science, Data Analytics, or Machine Learning**.
+## 👋 Hi, I'm Rahil Shah <br>🎓 MS in Data Science Student @ Stevens Institute of Technology 
+<br>I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a passion for turning raw data into actionable insights. Currently, I am seeking full-time opportunities or internships in **Data Science, Data Analytics, or Machine Learning**.
 
 
 ## 🌐 Socials:
